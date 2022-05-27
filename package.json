@@ -1,0 +1,16 @@
+{
+  "name": "ithree",
+  "version": "1.0.0",
+  "description": "first steps with i3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js",
+    "neeraj",
+    "i3"
+  ],
+  "author": "Neeraj Aggarwal",
+  "license": "ISC"
+}
